@@ -1,4 +1,3 @@
-# 7565377609:AAFpwYewvC2zH74A7AG_yvmVeLDe9oj0BgQ
 # pip install python-telegram-bot beautifulsoup4 requests
 
 from telegram import Update, Bot, InlineKeyboardButton, InlineKeyboardMarkup , ReplyKeyboardMarkup , KeyboardButton
